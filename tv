@@ -633,9 +633,14 @@
             "url": "Sequence"
         },
         {
+            "name": "猫群专用0",
+            "type": 1,
+            "url": "https://jx.parwix.com:4433/player/?url="
+        },
+        {
             "name": "猫群专用1",
             "type": 1,
-            "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=2534396&key=ejovwzABDKTUXY1357&url="
+            "url": "https://jx.pingguocms.com/dplayer/?url="
         },
         {
             "name": "猫群专用2",
@@ -655,7 +660,7 @@
         {
             "name": "猫群专用5",
             "type": 1,
-            "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url="
+            "url": "https://lt.kpjx.cc/Mao.php?url="
         },
         {
             "name": "猫群专用6",
@@ -665,12 +670,27 @@
         {
             "name": "猫群专用7",
             "type": 1,
-            "url": "https://xfy.kpjx.cc/Mao.php?url="
+            "url": "https://rrm.kpjx.cc/Mao.php?url="
         },
         {
             "name": "猫群专用8",
             "type": 1,
-            "url": "https://jx.zhanlangbu.com/json.php/?url="
+            "url": "http://23.224.174.74:5583/jsonindex.php?url="
+        },
+        {
+            "name": "猫群专用9",
+            "type": 1,
+            "url": "https://jx.blbo.cc:4433/?url="
+        },
+        {
+            "name": "猫群专用10",
+            "type": 1,
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+        },
+        {
+            "name": "猫群专用11",
+            "type": 1,
+            "url": "https://jx.xuanqi.pro/?url="
         }
     ],
     "flags": [
